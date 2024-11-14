@@ -14,3 +14,6 @@ We've done some benchmarking and, given a uniform random seed (x,y), the output 
 
 
 ![R30CentralColumn_1000x1000](https://github.com/user-attachments/assets/68ca3295-5c72-44f0-aaa9-fad11b62639d)
+Picture of the first $1$ million values of Wolfram's Rule 30's central column in a $1,000$ by $1,000$ square matrix.
+0 => white
+1 => black
